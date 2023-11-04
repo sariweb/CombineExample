@@ -13,6 +13,7 @@
 		851C5D9F2AF64F2E0081925C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 851C5D9D2AF64F2E0081925C /* Main.storyboard */; };
 		851C5DA12AF64F300081925C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 851C5DA02AF64F300081925C /* Assets.xcassets */; };
 		851C5DA42AF64F300081925C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 851C5DA22AF64F300081925C /* LaunchScreen.storyboard */; };
+		851C5DAC2AF651710081925C /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851C5DAB2AF651710081925C /* APICaller.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		851C5DA02AF64F300081925C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		851C5DA32AF64F300081925C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		851C5DA52AF64F300081925C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		851C5DAB2AF651710081925C /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				851C5D972AF64F2E0081925C /* AppDelegate.swift */,
 				851C5D992AF64F2E0081925C /* SceneDelegate.swift */,
 				851C5D9B2AF64F2E0081925C /* ViewController.swift */,
+				851C5DAB2AF651710081925C /* APICaller.swift */,
 				851C5D9D2AF64F2E0081925C /* Main.storyboard */,
 				851C5DA02AF64F300081925C /* Assets.xcassets */,
 				851C5DA22AF64F300081925C /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				851C5D9C2AF64F2E0081925C /* ViewController.swift in Sources */,
 				851C5D982AF64F2E0081925C /* AppDelegate.swift in Sources */,
 				851C5D9A2AF64F2E0081925C /* SceneDelegate.swift in Sources */,
+				851C5DAC2AF651710081925C /* APICaller.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
